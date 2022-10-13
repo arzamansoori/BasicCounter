@@ -22,5 +22,5 @@ Basic Counter is a simple website in which you can count by clicking on increasi
 #
 To use basic counter or to see website. Please click on the deployed link below.
 
-[Basic Counter](https://projectagecalculator.netlify.app/)
+[Basic Counter](https://basiccounterproject.netlify.app/)
 
